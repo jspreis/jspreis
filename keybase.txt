@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jspreis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jspreis.github.io
+  * I am jspreis (https://keybase.io/jspreis) on keybase.
+  * I have a public key ASCMR1SvdilAVfxHgx9kLIfqHE9IflJMsojU3VM0mYAeKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208c4754af76294055fc47831f642c87ea1c4f487e524cb288d4dd533499801e2b0a",
+      "host": "keybase.io",
+      "kid": "01208c4754af76294055fc47831f642c87ea1c4f487e524cb288d4dd533499801e2b0a",
+      "uid": "cd02d006e4427d859f92ffc4f3c8f719",
+      "username": "jspreis"
+    },
+    "merkle_root": {
+      "ctime": 1510367111,
+      "hash": "8bd99f6f158427a71eee4c547c48c3996b58ed21297998cc51961a724a71953e27aaa2457099d775385b0be816a112811fa41d8bd17185fed7afce9bffb6a48b",
+      "hash_meta": "a0653275571106d3196ff51cb93db935c63dd2bbc948da0a1407f101c7d69134",
+      "seqno": 1692489
+    },
+    "service": {
+      "hostname": "jspreis.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.35"
+  },
+  "ctime": 1510367135,
+  "expire_in": 504576000,
+  "prev": "dd3ac2fc979eb691c33a251e0d41fa15c8a91565a2aeb9662d49c398ed417f04",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjEdUr3YpQFX8R4MfZCyH6hxPSH5STLKI1N1TNJmAHisKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGM0NzU0YWY3NjI5NDA1NWZjNDc4MzFmNjQyYzg3ZWExYzRmNDg3ZTUyNGNiMjg4ZDRkZDUzMzQ5OTgwMWUyYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGM0NzU0YWY3NjI5NDA1NWZjNDc4MzFmNjQyYzg3ZWExYzRmNDg3ZTUyNGNiMjg4ZDRkZDUzMzQ5OTgwMWUyYjBhIiwidWlkIjoiY2QwMmQwMDZlNDQyN2Q4NTlmOTJmZmM0ZjNjOGY3MTkiLCJ1c2VybmFtZSI6ImpzcHJlaXMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTAzNjcxMTEsImhhc2giOiI4YmQ5OWY2ZjE1ODQyN2E3MWVlZTRjNTQ3YzQ4YzM5OTZiNThlZDIxMjk3OTk4Y2M1MTk2MWE3MjRhNzE5NTNlMjdhYWEyNDU3MDk5ZDc3NTM4NWIwYmU4MTZhMTEyODExZmE0MWQ4YmQxNzE4NWZlZDdhZmNlOWJmZmI2YTQ4YiIsImhhc2hfbWV0YSI6ImEwNjUzMjc1NTcxMTA2ZDMxOTZmZjUxY2I5M2RiOTM1YzYzZGQyYmJjOTQ4ZGEwYTE0MDdmMTAxYzdkNjkxMzQiLCJzZXFubyI6MTY5MjQ4OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqc3ByZWlzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM1In0sImN0aW1lIjoxNTEwMzY3MTM1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImRkM2FjMmZjOTc5ZWI2OTFjMzNhMjUxZTBkNDFmYTE1YzhhOTE1NjVhMmFlYjk2NjJkNDljMzk4ZWQ0MTdmMDQiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAWNcZe1LEXFJvf7rxoZ4YHk7JmU9vGz6NPzeQaEpuzxKA/bgg+DAK9CbZA6n0lkAAs+Q6ofN4/jvfb1VDAf9ADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFlrPTOMKJXob74DKsEDTEePCQcLSx2fF4OoJsSqfoYXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jspreis
+
+==================================================================
