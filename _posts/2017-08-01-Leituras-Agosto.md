@@ -6,7 +6,7 @@ categories: Livros
 ---
 
 - Dying inside - Robert Silverberg. Um romance de ficção científica sem tanto assim de ficção científica. Um telepata, nos anos 70, perde lentamente o seu dom e, por arrasto, a sua identidade.  Envelhecer e perder, e a frustração que isso acarreta - feitos paradoxos de fermi para uma ficção científica intra-terrena. Provavelmente autobiográfico, e ligeiramente forçado no excesso de referências literárias, mas bem escrito e refrescante.   
-- The man in the maze - Robert Silverberg. Um aventureiro, tornado repelente para os seus, vê o seu exílio numa perigosa e mortal cidade labirinto, desenterrado por visitantes. Pequeno conto, com menos pretensões que o anterior, e sinceramente com menos interesse. 
+- The man in the maze - Robert Silverberg. Um aventureiro, tornado repelente para os seus, vê-se do seu exílio, numa perigosa e mortal cidade labirinto, desenterrado por visitantes. Pequeno conto, com menos pretensões que o anterior, e sinceramente com menos interesse. 
 
 
 

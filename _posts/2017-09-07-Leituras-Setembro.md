@@ -6,7 +6,7 @@ categories: Livros
 ---
 
 
-- The Time Wanderers - Arkady e Boris Strugatsky - Numa futura e avançada terra, um ex-progressor - atividade que reside na interferência consciente sobre civilizações menos avançadas - alimenta a ideia (inaceitável) de que o planeta está sob influência de uma civilização superior. A narrativa é construída em função de uma colecção de relatórios, memórias e depoimentos relativos a acontecimentos insólitos, até inexplicáveis, cujos contornos difusos, embora não agarrando sempre o interesse e atenção, se revelam num fim muito interessante. 
+- The Time Wanderers - Arkady e Boris Strugatsky - Numa futura e avançada Terra, um ex-progressor - atividade que reside na interferência consciente sobre civilizações menos avançadas - alimenta a ideia (inaceitável) de que o planeta está sob influência de uma civilização superior. A narrativa é construída em função de uma colecção de relatórios, memórias e depoimentos relativos a acontecimentos insólitos, até inexplicáveis, cujos contornos difusos, embora não agarrando sempre o interesse e atenção, se revelam num fim muito interessante. 
 
 A decorrer: 
 - The Korean War - Max Hastings - Tem sido um Agosto com os coreanos. 
