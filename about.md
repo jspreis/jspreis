@@ -7,6 +7,10 @@ Chamo-me João Roupiço Simões Pena dos Reis.
 
 Estudei Engenharia Física em Coimbra e faço, há já uns anos, "análise funcional" para uma plataforma informática de um banco. Uma coisa tem muito pouco a ver com a outra. 
 
+Música feita por mim:
+ [Bandcamp](https://jspreis.bandcamp.com)
+ [Soundcloud](https://soundcloud.com/jspreis)
+
 ---
 
 ### Template do blog
