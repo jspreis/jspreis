@@ -27,3 +27,5 @@ disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
+
+theme: jekyll-theme-cayman
